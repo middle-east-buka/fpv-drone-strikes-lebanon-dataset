@@ -7,7 +7,7 @@ This repository indexes a curated and constantly updated set of FPV drone strike
 - Bucket: `s3://fpv-drone-strikes-lebanon-dataset`
 - Video prefix: `videos/`
 - Thumbnail prefix: `thumbnails/`
-- Video count: 97 MP4 files
+- Video count: 96 MP4 files
 
 ## License
 
@@ -19,7 +19,6 @@ Repository metadata, manifests, and documentation are released under [CC0 1.0 Un
 |---|---|---|---|
 | 2026-06-14 | <img src="https://fpv-drone-strikes-lebanon-dataset.s3.amazonaws.com/thumbnails/2026-06-14_engineering_vehicle_arnoun_ababil_drone.jpg" alt="Engineering vehicle arnoun ababil drone" width="180"> | Engineering vehicle arnoun ababil drone | [Download](https://fpv-drone-strikes-lebanon-dataset.s3.amazonaws.com/videos/2026-06-14_engineering_vehicle_arnoun_ababil_drone.mp4) |
 | 2026-06-13 | <img src="https://fpv-drone-strikes-lebanon-dataset.s3.amazonaws.com/thumbnails/2026-06-13_excavator_majdal_zoun.jpg" alt="Excavator majdal zoun" width="180"> | Excavator majdal zoun | [Download](https://fpv-drone-strikes-lebanon-dataset.s3.amazonaws.com/videos/2026-06-13_excavator_majdal_zoun.mp4) |
-| 2026-06-12 | <img src="https://fpv-drone-strikes-lebanon-dataset.s3.amazonaws.com/thumbnails/2026-06-12_merkava_tank_eastern_outskirts_yahmor_al_shqif_ababil_drone.jpg" alt="Merkava tank eastern outskirts yahmor al shqif ababil drone" width="180"> | Merkava tank eastern outskirts yahmor al shqif ababil drone | [Download](https://fpv-drone-strikes-lebanon-dataset.s3.amazonaws.com/videos/2026-06-12_merkava_tank_eastern_outskirts_yahmor_al_shqif_ababil_drone.mp4) |
 | 2026-06-12 | <img src="https://fpv-drone-strikes-lebanon-dataset.s3.amazonaws.com/thumbnails/2026-06-12_merkava_tank_yahmor_al_shqif.jpg" alt="Merkava tank yahmor al shqif" width="180"> | Merkava tank yahmor al shqif | [Download](https://fpv-drone-strikes-lebanon-dataset.s3.amazonaws.com/videos/2026-06-12_merkava_tank_yahmor_al_shqif.mp4) |
 | 2026-06-12 | <img src="https://fpv-drone-strikes-lebanon-dataset.s3.amazonaws.com/thumbnails/2026-06-12_d9_armored_bulldozer_tayr_harfa_ababil_drone.jpg" alt="D9 armored bulldozer tayr harfa ababil drone" width="180"> | D9 armored bulldozer tayr harfa ababil drone | [Download](https://fpv-drone-strikes-lebanon-dataset.s3.amazonaws.com/videos/2026-06-12_d9_armored_bulldozer_tayr_harfa_ababil_drone.mp4) |
 | 2026-06-11 | <img src="https://fpv-drone-strikes-lebanon-dataset.s3.amazonaws.com/thumbnails/2026-06-11_merkava_tank_tayr_harfa_ababil_drone.jpg" alt="Merkava tank tayr harfa ababil drone" width="180"> | Merkava tank tayr harfa ababil drone | [Download](https://fpv-drone-strikes-lebanon-dataset.s3.amazonaws.com/videos/2026-06-11_merkava_tank_tayr_harfa_ababil_drone.mp4) |
