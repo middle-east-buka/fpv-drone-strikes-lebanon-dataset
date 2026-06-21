@@ -1,0 +1,107 @@
+# FPV Drone Strikes Lebanon Dataset
+
+This repository indexes a curated set of FPV drone strike videos related to Hezbollah activity on the Lebanon-Israel front. The video files are stored in S3, while this repo provides a lightweight catalog with stable object paths.
+
+## Storage
+
+- Bucket: `s3://fpv-drone-strikes-lebanon-dataset`
+- Prefix: `videos/`
+- Video count: 95 MP4 files
+
+## Videos
+
+- `2026-04-29_strike_on_merkava_tank.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-04-29_strike_on_merkava_tank.mp4`
+- `2026-04-30_Pr_2.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-04-30_Pr_2.mp4`
+- `2026-05-01_strike_on_humvee.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-01_strike_on_humvee.mp4`
+- `2026-05-01_strike_on_soldiers.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-01_strike_on_soldiers.mp4`
+- `2026-05-02_namer_apc_near_bint_jbeil.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-02_namer_apc_near_bint_jbeil.mp4`
+- `2026-05-02_strike_on_drone_control_system.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-02_strike_on_drone_control_system.mp4`
+- `2026-05-03_0_pol.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-03_0_pol.mp4`
+- `2026-05-03_strike_on_surveillance_camera.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-03_strike_on_surveillance_camera.mp4`
+- `2026-05-04_7_aii_gall.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-04_7_aii_gall.mp4`
+- `2026-05-04_strike_on_soldiers.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-04_strike_on_soldiers.mp4`
+- `2026-05-05_strike_on_merkava_tank.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-05_strike_on_merkava_tank.mp4`
+- `2026-05-06_namer_apc_near_bint_jbeil.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-06_namer_apc_near_bint_jbeil.mp4`
+- `2026-05-06_namer_apc_near_deir_siryan.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-06_namer_apc_near_deir_siryan.mp4`
+- `2026-05-06_namer_apc_near_qouzah.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-06_namer_apc_near_qouzah.mp4`
+- `2026-05-06_strike_on_position.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-06_strike_on_position.mp4`
+- `2026-05-06_strike_on_soldier_group.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-06_strike_on_soldier_group.mp4`
+- `2026-05-07_Je_2.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-07_Je_2.mp4`
+- `2026-05-08_merkava_tank_near_namr_al_jamal.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-08_merkava_tank_near_namr_al_jamal.mp4`
+- `2026-05-08_strike_on_humvee.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-08_strike_on_humvee.mp4`
+- `2026-05-08_strike_on_merkava_tank.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-08_strike_on_merkava_tank.mp4`
+- `2026-05-09_Gall_ail.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-09_Gall_ail.mp4`
+- `2026-05-09_soldiers_near_shlomi.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-09_soldiers_near_shlomi.mp4`
+- `2026-05-09_strike_on_soldiers.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-09_strike_on_soldiers.mp4`
+- `2026-05-09_strike_on_soldiers_02.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-09_strike_on_soldiers_02.mp4`
+- `2026-05-10_0.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-10_0.mp4`
+- `2026-05-10_ry_22_1447.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-10_ry_22_1447.mp4`
+- `2026-05-10_strike_near_deir_siryan.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-10_strike_near_deir_siryan.mp4`
+- `2026-05-11_Saal_N.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-11_Saal_N.mp4`
+- `2026-05-11_strike_near_naqoura.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-11_strike_near_naqoura.mp4`
+- `2026-05-11_strike_near_tayr_harfa.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-11_strike_near_tayr_harfa.mp4`
+- `2026-05-11_strike_on_soldier.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-11_strike_on_soldier.mp4`
+- `2026-05-12_namer_apc_near_houla.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-12_namer_apc_near_houla.mp4`
+- `2026-05-12_strike_near_tayr_harfa.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-12_strike_near_tayr_harfa.mp4`
+- `2026-05-12_strike_on_humvee.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-12_strike_on_humvee.mp4`
+- `2026-05-12_strike_on_soldiers.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-12_strike_on_soldiers.mp4`
+- `2026-05-13_i_25_Landes_1447.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-13_i_25_Landes_1447.mp4`
+- `2026-05-13_strike_on_merkava_tank.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-13_strike_on_merkava_tank.mp4`
+- `2026-05-14_military_tanker_near_bint_jbeil.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-14_military_tanker_near_bint_jbeil.mp4`
+- `2026-05-14_strike_on_merkava_tank.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-14_strike_on_merkava_tank.mp4`
+- `2026-05-15_9_all_27_1447.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-15_9_all_27_1447.mp4`
+- `2026-05-16_strike_near_iskandarounah.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-16_strike_near_iskandarounah.mp4`
+- `2026-05-17_strike_near_iskandarounah.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-17_strike_near_iskandarounah.mp4`
+- `2026-05-18_strike_on_launcher.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-18_strike_on_launcher.mp4`
+- `2026-05-19_gol_2_Alf_Gall_fe.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-19_gol_2_Alf_Gall_fe.mp4`
+- `2026-05-20_namer_apc_near_hadatha.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-20_namer_apc_near_hadatha.mp4`
+- `2026-05-20_strike_near_debel.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-20_strike_near_debel.mp4`
+- `2026-05-22_merkava_tank_near_markaba.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-22_merkava_tank_near_markaba.mp4`
+- `2026-05-22_soldiers_near_manara.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-22_soldiers_near_manara.mp4`
+- `2026-05-23_strike_near_jardah.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-23_strike_near_jardah.mp4`
+- `2026-05-23_strike_near_ramim.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-23_strike_near_ramim.mp4`
+- `2026-05-23_strike_on_soldiers.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-23_strike_on_soldiers.mp4`
+- `2026-05-24_namer_apc_near_taybeh.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-24_namer_apc_near_taybeh.mp4`
+- `2026-05-25_gall.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-25_gall.mp4`
+- `2026-05-25_soldiers_near_hadab_al_bustan.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-25_soldiers_near_hadab_al_bustan.mp4`
+- `2026-05-25_strike_on_command_room.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-25_strike_on_command_room.mp4`
+- `2026-05-26_aid_Adio.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-26_aid_Adio.mp4`
+- `2026-05-26_aid_Adio_02.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-26_aid_Adio_02.mp4`
+- `2026-05-26_aul.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-26_aul.mp4`
+- `2026-05-26_communications_equipment_near_al_assi.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-26_communications_equipment_near_al_assi.mp4`
+- `2026-05-26_merkava_tank_near_rashaf.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-26_merkava_tank_near_rashaf.mp4`
+- `2026-05-27_0_aul_5.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-27_0_aul_5.mp4`
+- `2026-05-27_strike_near_jal_al_alam.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-27_strike_near_jal_al_alam.mp4`
+- `2026-05-27_strike_on_merkava_tank.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-27_strike_on_merkava_tank.mp4`
+- `2026-05-28_strike_near_khiam.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-28_strike_near_khiam.mp4`
+- `2026-05-29_namer_apc_ainata.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-29_namer_apc_ainata.mp4`
+- `2026-05-29_soldier_misgav_am.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-29_soldier_misgav_am.mp4`
+- `2026-05-30_strike_on_merkava_tank.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-30_strike_on_merkava_tank.mp4`
+- `2026-05-31_strike_on_humvee.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-31_strike_on_humvee.mp4`
+- `2026-05-31_strike_on_namer_apc.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-31_strike_on_namer_apc.mp4`
+- `2026-05-31_strike_on_soldiers.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-05-31_strike_on_soldiers.mp4`
+- `2026-06-01_merkava_tank_near_yahmor_al_shqif.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-01_merkava_tank_near_yahmor_al_shqif.mp4`
+- `2026-06-01_soldiers_near_yahmor.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-01_soldiers_near_yahmor.mp4`
+- `2026-06-01_soldiers_near_yahmor_02.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-01_soldiers_near_yahmor_02.mp4`
+- `2026-06-02_namer_apc_near_yahmor_al_shqif.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-02_namer_apc_near_yahmor_al_shqif.mp4`
+- `2026-06-02_strike_on_merkava_tank.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-02_strike_on_merkava_tank.mp4`
+- `2026-06-02_strike_on_namer_apc.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-02_strike_on_namer_apc.mp4`
+- `2026-06-02_targeting_israeli_soldiers_eastern_outskirts_zawtar_al_sharqiyah.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-02_targeting_israeli_soldiers_eastern_outskirts_zawtar_al_sharqiyah.mp4`
+- `2026-06-03_humvee_zawtar_al_sharqiyah.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-03_humvee_zawtar_al_sharqiyah.mp4`
+- `2026-06-03_m113_apc_beaufort_castle.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-03_m113_apc_beaufort_castle.mp4`
+- `2026-06-03_merkava_tank_zawtar_al_sharqiyah.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-03_merkava_tank_zawtar_al_sharqiyah.mp4`
+- `2026-06-04_strike_on_merkava_tank.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-04_strike_on_merkava_tank.mp4`
+- `2026-06-04_strike_on_merkava_tank_02.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-04_strike_on_merkava_tank_02.mp4`
+- `2026-06-05_humvee_near_khiam.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-05_humvee_near_khiam.mp4`
+- `2026-06-06_merkava_tank_near_blat.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-06_merkava_tank_near_blat.mp4`
+- `2026-06-06_sholef_howitzer_adaissah.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-06_sholef_howitzer_adaissah.mp4`
+- `2026-06-08_strike_near_yahmor_al_shqif.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-08_strike_near_yahmor_al_shqif.mp4`
+- `2026-06-08_strike_on_command_and_control_vehicle.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-08_strike_on_command_and_control_vehicle.mp4`
+- `2026-06-09_namer_apc_khiam.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-09_namer_apc_khiam.mp4`
+- `2026-06-10_humvee_yahmar_al_shaqif.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-10_humvee_yahmar_al_shaqif.mp4`
+- `2026-06-10_merkava_tank_beaufort_castle.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-10_merkava_tank_beaufort_castle.mp4`
+- `2026-06-11_merkava_tank_tayr_harfa_ababil_drone.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-11_merkava_tank_tayr_harfa_ababil_drone.mp4`
+- `2026-06-12_d9_armored_bulldozer_tayr_harfa_ababil_drone.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-12_d9_armored_bulldozer_tayr_harfa_ababil_drone.mp4`
+- `2026-06-12_merkava_tank_yahmor_al_shqif.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-12_merkava_tank_yahmor_al_shqif.mp4`
+- `2026-06-13_excavator_majdal_zoun.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/2026-06-13_excavator_majdal_zoun.mp4`
+- `XXXX-XX-XX_1_goal_1_31310_gral.mp4` - `s3://fpv-drone-strikes-lebanon-dataset/videos/XXXX-XX-XX_1_goal_1_31310_gral.mp4`
