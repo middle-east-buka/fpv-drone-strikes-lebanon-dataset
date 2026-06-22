@@ -7,7 +7,7 @@ This repository indexes a curated and constantly updated set of FPV drone strike
 - Bucket: `s3://fpv-drone-strikes-lebanon-dataset`
 - Video prefix: `videos/`
 - Thumbnail prefix: `thumbnails/`
-- Video count: 157 MP4 files
+- Video count: 159 MP4 files
 
 ## License
 
@@ -18,6 +18,8 @@ Repository metadata, manifests, and documentation are released under [CC0 1.0 Un
 | Date | Image | Description | Link |
 |---|---|---|---|
 | 2026-06-14 | <img src="https://d2fioemadmrru3.cloudfront.net/thumbnails/2026-06-14_engineering_vehicle_arnoun_ababil_drone.jpg" alt="Engineering vehicle arnoun ababil drone" width="180"> | Engineering vehicle arnoun ababil drone | [Download](https://d2fioemadmrru3.cloudfront.net/videos/2026-06-14_engineering_vehicle_arnoun_ababil_drone.mp4) |
+| 2026-06-13 | <img src="https://d2fioemadmrru3.cloudfront.net/thumbnails/2026-06-13_command_center_beaufort_castle_mmirleb_17582.jpg" alt="command center beaufort castle" width="180"> | command center beaufort castle | [Download](https://d2fioemadmrru3.cloudfront.net/videos/2026-06-13_command_center_beaufort_castle_mmirleb_17582.mp4) |
+| 2026-06-13 | <img src="https://d2fioemadmrru3.cloudfront.net/thumbnails/2026-06-13_namer_vehicle_hamammas_hill_khiam_mmirleb_17588.jpg" alt="namer vehicle hamammas hill khiam" width="180"> | namer vehicle hamammas hill khiam | [Download](https://d2fioemadmrru3.cloudfront.net/videos/2026-06-13_namer_vehicle_hamammas_hill_khiam_mmirleb_17588.mp4) |
 | 2026-06-13 | <img src="https://d2fioemadmrru3.cloudfront.net/thumbnails/2026-06-13_excavator_majdal_zoun.jpg" alt="Excavator majdal zoun" width="180"> | Excavator majdal zoun | [Download](https://d2fioemadmrru3.cloudfront.net/videos/2026-06-13_excavator_majdal_zoun.mp4) |
 | 2026-06-13 | <img src="https://d2fioemadmrru3.cloudfront.net/thumbnails/2026-06-13_logistics_position_bayyadah_mmirleb_17436.jpg" alt="logistics position bayyadah" width="180"> | logistics position bayyadah | [Download](https://d2fioemadmrru3.cloudfront.net/videos/2026-06-13_logistics_position_bayyadah_mmirleb_17436.mp4) |
 | 2026-06-12 | <img src="https://d2fioemadmrru3.cloudfront.net/thumbnails/2026-06-12_merkava_tank_yahmor_al_shqif.jpg" alt="Merkava tank yahmor al shqif" width="180"> | Merkava tank yahmor al shqif | [Download](https://d2fioemadmrru3.cloudfront.net/videos/2026-06-12_merkava_tank_yahmor_al_shqif.mp4) |
