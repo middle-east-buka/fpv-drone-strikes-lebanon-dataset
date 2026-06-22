@@ -1,0 +1,151 @@
+row,date,description,town,lat,lon,status
+1,14/06/2026,Engineering vehicle arnoun ababil drone,Arnoun,33.33168333,35.52566667,mapped
+2,13/06/2026,Excavator majdal zoun,Majdal Zoun,33.15143056,35.22584444,mapped
+3,13/06/2026,logistics position bayyadah,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+4,12/06/2026,Merkava tank yahmor al shqif,Yahmor al-Shaqif,33.30935556,35.51621944,mapped
+5,12/06/2026,D9 armored bulldozer tayr harfa ababil drone,Tayr Harfa,33.126925,35.21875556,mapped
+6,11/06/2026,Merkava tank tayr harfa ababil drone,Tayr Harfa,33.126925,35.21875556,mapped
+7,10/06/2026,Merkava tank beaufort castle,Beaufort Castle,33.32401389,35.53186389,mapped
+8,10/06/2026,Humvee yahmar al shaqif,Yahmor al-Shaqif,33.30935556,35.51621944,mapped
+9,09/06/2026,401 Brigade Hq Debel,Dibel / Debel,33.12090278,35.36613611,mapped
+10,09/06/2026,Namer apc metula southern outskirts khiam,Khiam,33.32690833,35.61120556,mapped
+11,08/06/2026,Strike on enemy vehicles near yahmor al shqif,Yahmor al-Shaqif,33.30935556,35.51621944,mapped
+12,08/06/2026,Command and control vehicle beaufort castle,Beaufort Castle,33.32401389,35.53186389,mapped
+13,08/06/2026,soldiers gathering naqoura,Naqoura,33.118975,35.14008333,mapped
+14,07/06/2026,Soldiers gathering beaufort castle,Beaufort Castle,33.32401389,35.53186389,mapped
+15,07/06/2026,Merkava tank beaufort castle,Beaufort Castle,33.32401389,35.53186389,mapped
+16,07/06/2026,Command namer vehicle yahmor al shqif,Yahmor al-Shaqif,33.30935556,35.51621944,mapped
+17,06/06/2026,Sholef howitzer adaissah,Adaissah,33.25556389,35.54078056,mapped
+19,06/06/2026,artillery vehicle adaissah,Adaissah,33.25556389,35.54078056,mapped
+20,05/06/2026,Humvee near khiam,Khiam,33.32690833,35.61120556,mapped
+21,05/06/2026,soldiers khiam,Khiam,33.32690833,35.61120556,mapped
+22,05/06/2026,merkava tank beaufort castle,Beaufort Castle,33.32401389,35.53186389,mapped
+23,04/06/2026,Merkava tank beaufort castle 02,Beaufort Castle,33.32401389,35.53186389,mapped
+24,04/06/2026,Merkava tank beaufort castle,Beaufort Castle,33.32401389,35.53186389,mapped
+25,03/06/2026,Merkava tank zawtar al sharqiyah,Zawtar al-Sharqiyah,33.3213,35.47325833,mapped
+26,03/06/2026,personnel carrier zawtar al sharqiyah mmirleb 17494,Zawtar al-Sharqiyah,33.3213,35.47325833,mapped
+27,03/06/2026,personnel carrier zawtar al sharqiyah mmirleb 17523,Zawtar al-Sharqiyah,33.3213,35.47325833,mapped
+28,03/06/2026,M113 apc beaufort castle,Beaufort Castle,33.32401389,35.53186389,mapped
+29,03/06/2026,Humvee zawtar al sharqiyah,Zawtar al-Sharqiyah,33.3213,35.47325833,mapped
+30,02/06/2026,Targeting israeli soldiers eastern outskirts zawtar al sharqiyah,Zawtar al-Sharqiyah,33.3213,35.47325833,mapped
+31,02/06/2026,Soldiers and namer vehicle near yahmor al shqif,Yahmor al-Shaqif,33.30935556,35.51621944,mapped
+32,02/06/2026,Namer vehicle near yahmor al shqif,Yahmor al-Shaqif,33.30935556,35.51621944,mapped
+33,02/06/2026,Merkava tank near yahmor al shqif,Yahmor al-Shaqif,33.30935556,35.51621944,mapped
+34,01/06/2026,Soldiers near yahmor al shqif 02,Yahmor al-Shaqif,33.30935556,35.51621944,mapped
+35,01/06/2026,Soldiers near yahmor al shqif,Yahmor al-Shaqif,33.30935556,35.51621944,mapped
+36,01/06/2026,Merkava tank near yahmor al shqif,Yahmor al-Shaqif,33.30935556,35.51621944,mapped
+37,31/05/2026,Soldiers gathering near border site,Beaufort Castle,33.32401389,35.53186389,mapped
+38,31/05/2026,Namer vehicle and apc in dibel,Dibel / Debel,33.12090278,35.36613611,mapped
+39,31/05/2026,Humvee vehicle at al assi,Border area opposite Mays al-Jabal,33.17205556,35.53799167,mapped
+40,30/05/2026,Merkava tank beaufort castle,Beaufort Castle,33.32401389,35.53186389,mapped
+41,30/05/2026,technical equipment rashaf,Rachaf / Rashaf,33.14407222,35.36260833,mapped
+42,29/05/2026,Soldier at misgav am,Misgav Am,33.24803333,35.54877778,mapped
+43,29/05/2026,Namer apc in ainata,Ainata,33.12971111,35.43543889,mapped
+44,28/05/2026,Iron technical platform at al raheb,Khiam,33.32690833,35.61120556,mapped
+45,28/05/2026,iron dome launcher vehicle khiam,Khiam,33.32690833,35.61120556,mapped
+46,28/05/2026,merkava tank zawtar al sharqiyah,Zawtar al-Sharqiyah,33.3213,35.47325833,mapped
+47,27/05/2026,Merkava tank on military route,Zawtar al-Sharqiyah,33.3213,35.47325833,mapped
+48,27/05/2026,Iron technical platform at jal al alam,Border near Rosh HaNikra,33.08693889,35.15468611,mapped
+51,26/05/2026,Vehicle And Soldier Gatherings Biranit,Border near Rmaych,33.06221389,35.34233889,mapped
+52,26/05/2026,Merkava tank in rashaf,Rachaf / Rashaf,33.14407222,35.36260833,mapped
+53,26/05/2026,Humvee vehicle in wadi near dibel,Dibel / Debel,33.12090278,35.36613611,mapped
+54,26/05/2026,Communications equipment at al assi,Border area opposite Mays al-Jabal,33.17205556,35.53799167,mapped
+55,26/05/2026,Anti drone platform barashit 02,Border near Rmaych,33.06221389,35.34233889,mapped
+56,26/05/2026,Anti drone platform barashit,Border near Rmaych,33.06221389,35.34233889,mapped
+57,26/05/2026,humvee zawtar al sharqiyah riverbed,Zawtar al-Sharqiyah,33.3213,35.47325833,mapped
+58,26/05/2026,d9 bulldozer zawtar al sharqiyah,Zawtar al-Sharqiyah,33.3213,35.47325833,mapped
+59,25/05/2026,Two israeli army vehicles,Naqoura,33.118975,35.14008333,mapped
+61,25/05/2026,Command room tayr harfa,Tayr Harfa,33.126925,35.21875556,mapped
+62,24/05/2026,Namer apc taybeh,Taybeh,33.27614167,35.52115278,mapped
+63,24/05/2026,humvee manara,Manara,33.19809722,35.54392778,mapped
+64,23/05/2026,Soldier Gathering Bayyadah,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+65,23/05/2026,Two iron dome platforms ramim,Ramim Ridge,33.19026667,35.54089722,mapped
+66,23/05/2026,Soldiers taybeh,Taybeh,33.27614167,35.52115278,mapped
+67,23/05/2026,Anti drone system jardah,Border Israel in front of Alma al-Shaab,33.09190833,35.18313611,mapped
+68,22/05/2026,Soldier manara,Manara,33.19809722,35.54392778,mapped
+69,22/05/2026,Merkava tank markaba,Markaba,33.23274722,35.51663333,mapped
+70,21/05/2026,Engineering vehicle khallet al raj deir siryan,Deir Seryan / Khallet al-Raj,33.291775,35.50118611,mapped
+71,20/05/2026,Namer apc hadatha,Haddatha,33.16537778,35.39011389,mapped
+72,20/05/2026,Armored brigade 401 hq debel,Dibel / Debel,33.12090278,35.36613611,mapped
+73,19/05/2026,Military vehicle misgav am,Misgav Am,33.24803333,35.54877778,mapped
+74,19/05/2026,iron dome platform misgav am,Misgav Am,33.24803333,35.54877778,mapped
+75,19/05/2026,iron dome platform jal al alam,Border near Rosh HaNikra,33.08693889,35.15468611,mapped
+76,19/05/2026,communications vehicle taybeh,Taybeh,33.27614167,35.52115278,mapped
+77,19/05/2026,engineering vehicle khiam,Khiam,33.32690833,35.61120556,mapped
+78,18/05/2026,Iron dome platform shomera,"Near Shomera (Israel), approx",33.09319722,35.28620556,mapped
+79,18/05/2026,brigade 300 commander vehicle shomera,"Near Shomera (Israel), approx",33.09319722,35.28620556,mapped
+80,18/05/2026,engineering vehicle deir siryan khallet al raj,Deir Seryan / Khallet al-Raj,33.291775,35.50118611,mapped
+81,17/05/2026,Buggy iskandarounah naqoura,Naqoura,33.118975,35.14008333,mapped
+82,17/05/2026,logistics position bayyadah iskandarounah,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+83,17/05/2026,military vehicle bayyadah iskandarounah,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+84,16/05/2026,Hummer iskandarounah bayyadah,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+85,16/05/2026,engineering vehicle deir siryan khallet al raj,Deir Seryan / Khallet al-Raj,33.291775,35.50118611,mapped
+86,16/05/2026,merkava tank bayyadah,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+87,16/05/2026,namer vehicle taybeh,Taybeh,33.27614167,35.52115278,mapped
+88,15/05/2026,Engineering vehicle khiam,Khiam,33.32690833,35.61120556,mapped
+89,15/05/2026,personnel carrier deir siryan khallet al raj,Deir Seryan / Khallet al-Raj,33.291775,35.50118611,mapped
+90,14/05/2026,Strike on military tanker near bint jbeil,Bint Jbeil,33.12122222,35.43349722,mapped
+91,14/05/2026,merkava tank bint jbeil,Bint Jbeil,33.12122222,35.43349722,mapped
+92,14/05/2026,Merkava tank taybeh,Taybeh,33.27614167,35.52115278,mapped
+94,14/05/2026,soldiers gathering naqoura ras naqoura,Naqoura,33.118975,35.14008333,mapped
+95,14/05/2026,namer vehicle rashaf,Rachaf / Rashaf,33.14407222,35.36260833,mapped
+96,14/05/2026,humvee tayr harfa,Tayr Harfa,33.126925,35.21875556,mapped
+97,13/05/2026,Strike on merkava tank near aita al shaab,Ayta ash Shab / Aita al-Shaab,33.09846111,35.33781389,mapped
+98,13/05/2026,Strike on armored personnel carrier,Bint Jbeil,33.12122222,35.43349722,mapped
+100,12/05/2026,Strike on namer apc near houla,Houla,33.20943611,35.515425,mapped
+101,12/05/2026,Strike on humvee,Naqoura,33.118975,35.14008333,mapped
+102,12/05/2026,Strike on engineering vehicle near tayr harfa,Tayr Harfa,33.126925,35.21875556,mapped
+103,12/05/2026,merkava tank manara khirbet al manara,Manara,33.19809722,35.54392778,mapped
+104,12/05/2026,soldier manara khirbet al manara,Manara,33.19809722,35.54392778,mapped
+105,12/05/2026,humvee naqoura naqoura iskandarounah road,Naqoura,33.118975,35.14008333,mapped
+106,11/05/2026,Strike on soldier near dhayra,Dhayra,33.10703056,35.21939444,mapped
+107,11/05/2026,Strike on logistics vehicle near tayr harfa,Tayr Harfa,33.126925,35.21875556,mapped
+108,11/05/2026,Strike on engineering vehicle near khiam,Khiam,33.32690833,35.61120556,mapped
+109,11/05/2026,Strike on d9 engineering vehicle near naqoura,Naqoura,33.118975,35.14008333,mapped
+110,10/05/2026,Merkava tank bayyadah,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+111,10/05/2026,Strike on d9 engineering vehicle near deir siryan,Deir Seryan / Khallet al-Raj,33.291775,35.50118611,mapped
+112,10/05/2026,Strike on bulldozer near ramiya,Rmaych,33.07546111,35.36408889,mapped
+113,10/05/2026,headquarters bayyadah,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+114,10/05/2026,soldiers position house tayr harfa,Tayr Harfa,33.126925,35.21875556,mapped
+115,09/05/2026,Strike on soldiers near shlomi,Shlomi,33.07429444,35.14379167,mapped
+116,09/05/2026,Strike on soldiers near deir mimas,Deir Mimas,33.30303333,35.54612778,mapped
+117,09/05/2026,Strike on soldiers,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+118,09/05/2026,Strike on israeli military vehicle,Deir Seryan / Khallet al-Raj,33.291775,35.50118611,mapped
+119,09/05/2026,soldiers gathering shlomi,Shlomi,33.07429444,35.14379167,mapped
+120,09/05/2026,soldiers gathering jal al alam,Border Israel opposite Alma al-Shaab,33.09506944,35.1746,mapped
+121,09/05/2026,tent deir siryan khallet al raj,Deir Seryan / Khallet al-Raj,33.291775,35.50118611,mapped
+122,09/05/2026,humvee bayyadah,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+123,09/05/2026,soldiers deir siryan,Deir Seryan / Khallet al-Raj,33.291775,35.50118611,mapped
+124,09/05/2026,target deir siryan khallet al raj,Deir Seryan / Khallet al-Raj,33.291775,35.50118611,mapped
+125,08/05/2026,Strike on merkava tank near namr al jamal,Border Israel opposite Alma al-Shaab,33.09506944,35.1746,mapped
+126,08/05/2026,merkava tank bayyadah,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+127,08/05/2026,Strike on merkava tank,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+128,08/05/2026,Strike on humvee in naqoura,Naqoura,33.118975,35.14008333,mapped
+129,08/05/2026,Resistance strikes enemy forces kfar kila,Kafr Kela,33.2772,35.55606111,mapped
+130,08/05/2026,humvee bayyadah,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+131,07/05/2026,Strike on iron dome launcher at jal al alam,Border Israel opposite Alma al-Shaab,33.09506944,35.1746,mapped
+132,06/05/2026,Strike on soldier group,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+133,06/05/2026,Strike on namer apc near qouzah,Qouzah,33.12077222,35.34090833,mapped
+134,06/05/2026,Strike on namer apc near deir siryan,Deir Seryan / Khallet al-Raj,33.291775,35.50118611,mapped
+135,06/05/2026,Strike on namer apc in bint jbeil,Bint Jbeil,33.12122222,35.43349722,mapped
+136,06/05/2026,Strike on enemy position,Taybeh,33.27614167,35.52115278,mapped
+137,06/05/2026,soldiers gathering aita al shaab,Ayta ash Shab / Aita al-Shaab,33.09846111,35.33781389,mapped
+138,06/05/2026,position point taybeh,Taybeh,33.27614167,35.52115278,mapped
+139,06/05/2026,d9 engineering vehicle houla,Houla,33.20943611,35.515425,mapped
+140,05/05/2026,Strike on merkava tank,Qouzah,33.12077222,35.34090833,mapped
+142,04/05/2026,Strike on engineering vehicle,Manara,33.19809722,35.54392778,mapped
+143,04/05/2026,hemtt logistics vehicle manara,Manara,33.19809722,35.54392778,mapped
+144,03/05/2026,Strike on surveillance camera,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+145,03/05/2026,Strike on company commander tank,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+146,03/05/2026,company commander tank bayyadah,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+147,02/05/2026,Strike on namer apc in bint jbeil,Bint Jbeil,33.12122222,35.43349722,mapped
+148,02/05/2026,Strike on drone control system,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+149,01/05/2026,Vehicle And Soldier Gathering Bayyadah,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+150,01/05/2026,Strike on soldiers,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+151,01/05/2026,Strike on humvee,Al Bayada / Bayyadah,33.16242222,35.18071389,mapped
+152,01/05/2026,namer vehicle bint jbeil,Bint Jbeil,33.12122222,35.43349722,mapped
+153,01/05/2026,merkava tank rashaf,Rachaf / Rashaf,33.14407222,35.36260833,mapped
+154,30/04/2026,Strike on humvee in naqoura,Naqoura,33.118975,35.14008333,mapped
+155,29/04/2026,Strike on merkava tank,Beit Lif,33.13361111,35.33277778,mapped
+156,28/04/2026,Vehicles and soldiers namr al jamal alma al shaab,Border Israel opposite Alma al-Shaab,33.09506944,35.1746,mapped
+157,24/04/2026,D9 engineering vehicle between taybeh and deir siryan,Taybeh,33.27614167,35.52115278,mapped
