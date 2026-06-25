@@ -7,7 +7,7 @@ This repository indexes a curated and constantly updated set of FPV drone strike
 - Bucket: `s3://fpv-drone-strikes-lebanon-dataset`
 - Video prefix: `videos/`
 - Thumbnail prefix: `thumbnails/`
-- Video count: 163 MP4 files
+- Video count: 162 MP4 files
 
 ## License
 
@@ -178,5 +178,4 @@ Repository metadata, manifests, and documentation are released under [CC0 1.0 Un
 | 2026-05-01 | <img src="https://d2fioemadmrru3.cloudfront.net/thumbnails/2026-05-01_merkava_tank_rashaf_mmirleb_15952.jpg" alt="merkava tank rashaf" width="180"> | merkava tank rashaf | [Download](https://d2fioemadmrru3.cloudfront.net/videos/2026-05-01_merkava_tank_rashaf_mmirleb_15952.mp4) |
 | 2026-04-30 | <img src="https://d2fioemadmrru3.cloudfront.net/thumbnails/2026-04-30_strike_on_humvee_in_naqoura.jpg" alt="Strike on humvee in naqoura" width="180"> | Strike on humvee in naqoura | [Download](https://d2fioemadmrru3.cloudfront.net/videos/2026-04-30_strike_on_humvee_in_naqoura.mp4) |
 | 2026-04-29 | <img src="https://d2fioemadmrru3.cloudfront.net/thumbnails/2026-04-29_strike_on_merkava_tank.jpg" alt="Strike on merkava tank" width="180"> | Strike on merkava tank | [Download](https://d2fioemadmrru3.cloudfront.net/videos/2026-04-29_strike_on_merkava_tank.mp4) |
-| 2026-04-28 | <img src="https://d2fioemadmrru3.cloudfront.net/thumbnails/2026-04-28_vehicles_and_soldiers_namr_al_jamal_alma_al_shaab.jpg" alt="Vehicles and soldiers namr al jamal alma al shaab" width="180"> | Vehicles and soldiers namr al jamal alma al shaab | [Download](https://d2fioemadmrru3.cloudfront.net/videos/2026-04-28_vehicles_and_soldiers_namr_al_jamal_alma_al_shaab.mp4) |
 | 2026-04-24 | <img src="https://d2fioemadmrru3.cloudfront.net/thumbnails/2026-04-24_d9_engineering_vehicle_between_taybeh_and_deir_siryan.jpg" alt="D9 engineering vehicle between taybeh and deir siryan" width="180"> | D9 engineering vehicle between taybeh and deir siryan | [Download](https://d2fioemadmrru3.cloudfront.net/videos/2026-04-24_d9_engineering_vehicle_between_taybeh_and_deir_siryan.mp4) |
